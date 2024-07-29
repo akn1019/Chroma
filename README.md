@@ -1,1 +1,1 @@
-# Chroma
+# Created a Chrome extension for language conversion, enabling real-time translation of web content into multiple languages. Implemented robust algorithms to ensure accurate and fast translations, leveraging advanced APIs and machine learning techniques. Engaged with users for feedback and continuously updated the extension to enhance functionality and user experience.
